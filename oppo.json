@@ -1,0 +1,84 @@
+{
+  "brand": "oppo",
+  "description": "Common bloatware on OPPO devices (ColorOS)",
+  "packages": [
+    {
+      "id": "com.coloros.weather",
+      "name": "OPPO Weather",
+      "description": "OPPO weather app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.gallery",
+      "name": "OPPO Gallery",
+      "description": "OPPO photo gallery. Substitute: Google Photos.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.music",
+      "name": "OPPO Music",
+      "description": "OPPO music player. Substitute: Spotify.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.video",
+      "name": "OPPO Video",
+      "description": "OPPO video player. Substitute: VLC.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.oppotouch",
+      "name": "OPPO Touch",
+      "description": "OPPO touch gesture assistant.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oplus.appstore",
+      "name": "OPPO App Market",
+      "description": "OPPO app store.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.note",
+      "name": "OPPO Notes",
+      "description": "OPPO note-taking app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.healthcheck",
+      "name": "OPPO Health",
+      "description": "Health and step counter app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.gamespace",
+      "name": "OPPO Game Space",
+      "description": "OPPO gaming hub.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oplus.statistics",
+      "name": "OPPO Statistics Service",
+      "description": "Collects usage data for OPPO. Recommended to remove.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.heytap.market",
+      "name": "HeyTap Market",
+      "description": "OPPO/HeyTap alternative app store.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.mcs",
+      "name": "OPPO Message Center",
+      "description": "OPPO push message center.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.coloros.phonemanager",
+      "name": "OPPO Phone Manager",
+      "description": "Core OPPO system management. Removal may break ColorOS features.",
+      "risk": "never"
+    }
+  ]
+}

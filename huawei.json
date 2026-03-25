@@ -1,0 +1,96 @@
+{
+  "brand": "huawei",
+  "description": "Common bloatware on Huawei / Honor devices (EMUI / HarmonyOS)",
+  "packages": [
+    {
+      "id": "com.huawei.appmarket",
+      "name": "AppGallery",
+      "description": "Huawei app store. Safe to remove if using Google Play.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.music",
+      "name": "Huawei Music",
+      "description": "Huawei music player. Substitute: Spotify.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.video",
+      "name": "Huawei Video",
+      "description": "Huawei video player. Substitute: VLC.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.himovie.overseas",
+      "name": "Huawei Video (overseas)",
+      "description": "Huawei streaming service.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.health",
+      "name": "Huawei Health",
+      "description": "Fitness and health app. Required for Band/Watch pairing.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.huawei.wallet",
+      "name": "Huawei Wallet",
+      "description": "Huawei digital wallet.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.browser",
+      "name": "Huawei Browser",
+      "description": "Huawei web browser. Substitute: Chrome, Firefox.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.tips",
+      "name": "Huawei Tips",
+      "description": "Tips and tutorial app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.id.service",
+      "name": "Huawei ID Service",
+      "description": "Huawei account authentication service.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.huawei.intelligent.search",
+      "name": "HiSearch",
+      "description": "Huawei intelligent search service. Collects usage data.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.android.pushagent",
+      "name": "Huawei Push Agent",
+      "description": "Huawei push notification system.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.huawei.vassistant",
+      "name": "Celia (Huawei Assistant)",
+      "description": "Huawei voice assistant. Substitute: Google Assistant.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.gameassistant",
+      "name": "Game Assistant",
+      "description": "Huawei gaming optimization tool.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.android.hwouc",
+      "name": "Huawei Update Center",
+      "description": "OTA update service. Removing disables system updates.",
+      "risk": "advanced"
+    },
+    {
+      "id": "com.huawei.systemmanager",
+      "name": "Phone Manager (Huawei)",
+      "description": "Core Huawei system manager. Removal may break system features.",
+      "risk": "never"
+    }
+  ]
+}

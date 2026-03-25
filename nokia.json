@@ -1,0 +1,66 @@
+{
+  "brand": "nokia",
+  "description": "Common bloatware on Nokia devices (Android One / HMD)",
+  "packages": [
+    {
+      "id": "com.hmdglobal.app.fmradio",
+      "name": "Nokia FM Radio",
+      "description": "FM radio app from HMD/Nokia.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.hmdglobal.app.setup",
+      "name": "Nokia Setup Wizard",
+      "description": "Initial device setup app. Safe to remove after setup.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.hmdglobal.ems.service",
+      "name": "Nokia EMS Service",
+      "description": "Nokia remote device management service.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.hmdglobal.app.omacp",
+      "name": "Nokia OMA CP",
+      "description": "Carrier configuration provisioning service.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.evenwell.powersaving",
+      "name": "Power Saving (Nokia/HMD)",
+      "description": "Battery optimization service.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.swiftkey.swiftkeyapp",
+      "name": "SwiftKey Keyboard",
+      "description": "Pre-installed Microsoft keyboard. Substitute: Gboard.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.microsoft.bing",
+      "name": "Bing Search",
+      "description": "Microsoft Bing pre-installed. Substitute: Google Search.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.microsoft.teams",
+      "name": "Microsoft Teams",
+      "description": "Microsoft Teams pre-installed on some Nokia models.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.microsoft.office.officehubrow",
+      "name": "Microsoft Office Hub",
+      "description": "Microsoft Office pre-installed.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.hmdglobal.app.aiface",
+      "name": "Nokia AI Face",
+      "description": "AI camera face enhancement.",
+      "risk": "safe"
+    }
+  ]
+}
