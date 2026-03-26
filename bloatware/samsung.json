@@ -1,0 +1,156 @@
+{
+  "brand": "samsung",
+  "description": "Bloatwares comuns em dispositivos Samsung (One UI)",
+  "packages": [
+    {
+      "id": "com.samsung.android.bixby.agent",
+      "name": "Bixby",
+      "description": "Assistente de voz da Samsung. Substituto: Google Assistant.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.bixby.wakeup",
+      "name": "Bixby Wake-up",
+      "description": "Ativação por voz do Bixby.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.app.routines",
+      "name": "Bixby Routines",
+      "description": "Automações do Bixby.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.bixby.home",
+      "name": "Bixby Home",
+      "description": "Tela inicial do Bixby (painel lateral).",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.samsungpass",
+      "name": "Samsung Pass",
+      "description": "Gerenciador de senhas da Samsung. Substituto: Bitwarden.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.samsungpay",
+      "name": "Samsung Pay",
+      "description": "Carteira digital da Samsung.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.livestreaming",
+      "name": "Samsung Live Streaming",
+      "description": "App de streaming ao vivo.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.arzone",
+      "name": "AR Zone",
+      "description": "Realidade aumentada da Samsung (emojis AR, deco pic, etc.).",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.game.gamehome",
+      "name": "Game Launcher",
+      "description": "Central de jogos da Samsung.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.game.gametools",
+      "name": "Game Booster",
+      "description": "Otimizador de desempenho em jogos.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.samsung.android.service.livedrawing",
+      "name": "Live Drawing",
+      "description": "Plano de fundo animado com Live Drawing.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.applock",
+      "name": "App Lock (Samsung)",
+      "description": "Camada de segurança biométrica para apps. Remover desprotege apps que dependem deste serviço de bloqueio.",
+      "risk": "advanced"
+    },
+    {
+      "id": "com.samsung.android.mobileservice",
+      "name": "Samsung Mobile Services (FRAMEWORK)",
+      "description": "Framework base dos serviços Samsung. Remover quebra Samsung Pay, Galaxy Store, Samsung Pass e apps Samsung em cascata.",
+      "risk": "never"
+    },
+    {
+      "id": "com.samsung.android.app.galaxyfinder",
+      "name": "Galaxy Friends / Finder",
+      "description": "Rastreamento de dispositivos Samsung.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.app.social",
+      "name": "Samsung Social",
+      "description": "Integração com redes sociais pela Samsung.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sec.android.app.shealth",
+      "name": "Samsung Health",
+      "description": "App de saúde e fitness. Substituto: Google Fit.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.stickercenter",
+      "name": "Sticker Center",
+      "description": "Central de figurinhas para teclado.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.app.tips",
+      "name": "Samsung Tips",
+      "description": "Dicas de uso da Samsung.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.app.watchmanager",
+      "name": "Galaxy Watch Manager",
+      "description": "Gerenciamento de Galaxy Watch. Remova se não usa smartwatch Samsung.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.app.galaxybudsmanager",
+      "name": "Galaxy Buds Manager",
+      "description": "Gerenciamento de Galaxy Buds. Remova se não usa fones Samsung.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sec.android.app.chromacustomizationservice",
+      "name": "Chroma Customization",
+      "description": "Serviço de personalização de interface.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.samsung.android.fmm",
+      "name": "Find My Mobile",
+      "description": "Rastreamento de celular pela Samsung. Pode ser substituído pelo Find My Device (Google).",
+      "risk": "caution"
+    },
+    {
+      "id": "com.samsung.android.smartswitchassistant",
+      "name": "Smart Switch Assistant",
+      "description": "Assistente de migração de dados Samsung.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.app.cocktailbarservice",
+      "name": "Edge Panel",
+      "description": "Painel lateral deslizante Samsung.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.incallui",
+      "name": "Samsung In-Call UI",
+      "description": "Interface de chamadas. Remover pode impedir o funcionamento de chamadas telefônicas.",
+      "risk": "never"
+    }
+  ]
+}
