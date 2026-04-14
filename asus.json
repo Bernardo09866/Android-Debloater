@@ -1,0 +1,144 @@
+{
+  "brand": "asus",
+  "description": "Comprehensive bloatware list for ASUS ZenFone/ROG Phone devices — ZenUI 1 through ZenUI 6/Stock",
+  "packages": [
+    {
+      "id": "com.asus.dm",
+      "name": "ASUS Download Manager",
+      "description": "ASUS download service.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.asus.zenui.launcher",
+      "name": "ZenUI Launcher",
+      "description": "ASUS launcher. Substitute: Nova Launcher.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.asus.filemanager",
+      "name": "ASUS File Manager",
+      "description": "File manager. Substitute: Solid Explorer.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.asus.gallery",
+      "name": "ASUS Gallery",
+      "description": "Photo gallery. Substitute: Google Photos.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.asus.weathertime",
+      "name": "ASUS Weather & Clock",
+      "description": "Weather widget.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.asus.calculator",
+      "name": "ASUS Calculator",
+      "description": "Calculator app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.asus.flashlight",
+      "name": "ASUS Flashlight",
+      "description": "Standalone flashlight. Already in quick settings.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.asus.easymodeapp",
+      "name": "ASUS Easy Mode",
+      "description": "Simplified launcher mode.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.asus.userfeedback",
+      "name": "ASUS User Feedback",
+      "description": "Sends usage data to ASUS.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.asus.mobilemanager",
+      "name": "Mobile Manager (ASUS)",
+      "description": "Device management and cleaner.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.asus.arzone",
+      "name": "ASUS AR Zone",
+      "description": "Augmented reality app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.asus.gaminggenie",
+      "name": "Game Genie (ROG/ASUS)",
+      "description": "Gaming overlay. Core feature on ROG Phone.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.asus.gameoptimizingservice",
+      "name": "Game Optimizing Service",
+      "description": "Background gaming optimizer.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.asus.systemupdate",
+      "name": "ASUS System Update",
+      "description": "OTA updates. Removal disables updates.",
+      "risk": "advanced"
+    },
+    {
+      "id": "com.asus.zenuitweaks",
+      "name": "ZenUI Tweaks (legacy)",
+      "description": "UI customization tool from ZenUI 2-3.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.asus.zenlauncher",
+      "name": "Zen Launcher (legacy)",
+      "description": "Old Zen Launcher from ZenUI 1-2.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.asus.livedemoapk",
+      "name": "ASUS Live Demo (legacy)",
+      "description": "Demo mode app from store display units.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.asus.zenmotion",
+      "name": "ZenMotion (legacy)",
+      "description": "Touch gesture controls from ZenUI 2-4.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.asus.powersaving",
+      "name": "Power Saving (legacy)",
+      "description": "Old battery saver from ZenUI 1-3.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.asus.zenwords",
+      "name": "ZenWords (legacy)",
+      "description": "Word game pre-installed on old ZenFone.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.asus.zenfone.storagecleaner",
+      "name": "ZenFone Storage Cleaner (legacy)",
+      "description": "Old storage cleaner from ZenUI 1-2.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.asus.zenui.dialer",
+      "name": "ZenUI Dialer (legacy)",
+      "description": "Old dialer from ZenUI 1-3.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.asus.splendid",
+      "name": "Splendid Display Manager",
+      "description": "Display color calibration. Removal may affect screen.",
+      "risk": "never"
+    }
+  ]
+}

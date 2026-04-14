@@ -1,0 +1,150 @@
+{
+  "brand": "oneplus",
+  "description": "Comprehensive bloatware list for OnePlus devices — OxygenOS (all versions) and HydrogenOS (China)",
+  "packages": [
+    {
+      "id": "com.oneplus.brickmode",
+      "name": "Zen Mode / Brick Mode",
+      "description": "Focus/digital wellbeing mode.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oneplus.clipboard",
+      "name": "OnePlus Clipboard",
+      "description": "Clipboard manager.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oneplus.oneplusgallery",
+      "name": "OnePlus Gallery",
+      "description": "OnePlus photo gallery. Substitute: Google Photos.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oneplus.weather",
+      "name": "OnePlus Weather",
+      "description": "Weather app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oneplus.filemanager",
+      "name": "OnePlus File Manager",
+      "description": "File manager. Substitute: Solid Explorer.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oneplus.screenrecorder",
+      "name": "OnePlus Screen Recorder",
+      "description": "Screen recording.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oneplus.gamespace",
+      "name": "OnePlus Game Space",
+      "description": "Gaming hub.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oneplus.shelf",
+      "name": "OnePlus Shelf",
+      "description": "Side panel widget shelf.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oneplus.backuprestore",
+      "name": "OnePlus Backup & Restore",
+      "description": "OnePlus backup tool.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oneplus.opticianplus",
+      "name": "OnePlus Vision Lab",
+      "description": "Eye health screen filter.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oneplus.account",
+      "name": "OnePlus Account",
+      "description": "OnePlus account service.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.oneplus.push",
+      "name": "OnePlus Push Service",
+      "description": "Push notification service.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.oneplus.launcher",
+      "name": "OnePlus Launcher",
+      "description": "Default OxygenOS launcher. Substitute: Nova Launcher.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.oneplus.camera",
+      "name": "OnePlus Camera",
+      "description": "OnePlus camera app.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.oneplus.notes",
+      "name": "OnePlus Notes",
+      "description": "Notes app. Substitute: Google Keep.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oneplus.audioplayer",
+      "name": "OnePlus Music (legacy)",
+      "description": "Old music player from OxygenOS 2-4.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oneplus.filemanager.legacy",
+      "name": "OnePlus File Manager (legacy)",
+      "description": "Old file manager from early OxygenOS.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oneplus.opwallpaperchooser",
+      "name": "OnePlus Wallpaper Chooser",
+      "description": "Wallpaper picker.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oneplus.dialer",
+      "name": "OnePlus Dialer",
+      "description": "OnePlus dialer app.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.oneplus.contacts",
+      "name": "OnePlus Contacts",
+      "description": "OnePlus contacts app.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.oneplus.messaging",
+      "name": "OnePlus Messages",
+      "description": "OnePlus SMS app. Substitute: Google Messages.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.oneplus.flashlight",
+      "name": "OnePlus Flashlight (legacy)",
+      "description": "Standalone flashlight app from OxygenOS 1-2.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.heytap.market",
+      "name": "HeyTap Market (ColorOS merge)",
+      "description": "App store from ColorOS, present on some recent OnePlus.",
+      "risk": "safe"
+    },
+    {
+      "id": "net.oneplus.odm",
+      "name": "OnePlus ODM Service",
+      "description": "Core OnePlus device management framework.",
+      "risk": "never"
+    }
+  ]
+}

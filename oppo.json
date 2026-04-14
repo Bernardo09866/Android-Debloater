@@ -1,0 +1,150 @@
+{
+  "brand": "oppo",
+  "description": "Comprehensive bloatware list for OPPO devices — ColorOS 1 through ColorOS 13",
+  "packages": [
+    {
+      "id": "com.coloros.weather",
+      "name": "OPPO Weather",
+      "description": "OPPO weather app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.gallery",
+      "name": "OPPO Gallery",
+      "description": "Photo gallery. Substitute: Google Photos.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.music",
+      "name": "OPPO Music",
+      "description": "Music player. Substitute: Spotify.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.video",
+      "name": "OPPO Video",
+      "description": "Video player. Substitute: VLC.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.oppotouch",
+      "name": "OPPO Touch",
+      "description": "Touch gesture assistant.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oplus.appstore",
+      "name": "OPPO App Market",
+      "description": "OPPO app store.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.note",
+      "name": "OPPO Notes",
+      "description": "Notes app. Substitute: Google Keep.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.healthcheck",
+      "name": "OPPO Health",
+      "description": "Health and step counter.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.gamespace",
+      "name": "OPPO Game Space",
+      "description": "Gaming hub.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oplus.statistics",
+      "name": "OPPO Statistics Service",
+      "description": "Usage data collection. Recommended to remove.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.heytap.market",
+      "name": "HeyTap Market",
+      "description": "Alternate OPPO app store.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.mcs",
+      "name": "OPPO Message Center",
+      "description": "OPPO push message center.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.coloros.filemanager",
+      "name": "OPPO File Manager",
+      "description": "File manager.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.calculator",
+      "name": "OPPO Calculator",
+      "description": "Calculator.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.compass",
+      "name": "OPPO Compass",
+      "description": "Compass app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.soundrecorder",
+      "name": "OPPO Sound Recorder",
+      "description": "Voice recorder.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.flashlight",
+      "name": "OPPO Flashlight (legacy)",
+      "description": "Standalone flashlight from ColorOS 1-4.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.bootreg",
+      "name": "ColorOS Boot Register (legacy)",
+      "description": "Old boot registration from ColorOS 1-3.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.safecenter",
+      "name": "OPPO Safe Center (legacy)",
+      "description": "Old security center from ColorOS 2-5.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oppo.launcher",
+      "name": "OPPO Launcher (legacy)",
+      "description": "Old OPPO launcher from ColorOS 1-4.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.coloros.ocrscanner",
+      "name": "ColorOS OCR Scanner",
+      "description": "Text recognition scanner.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oppo.market",
+      "name": "OPPO Market (legacy)",
+      "description": "Very old OPPO app store from ColorOS 1-2.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oppo.enterprise",
+      "name": "OPPO Enterprise Service",
+      "description": "MDM enterprise feature.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.coloros.phonemanager",
+      "name": "OPPO Phone Manager (FRAMEWORK)",
+      "description": "Core OPPO system manager. Removal breaks ColorOS features.",
+      "risk": "never"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "brand": "realme",
+  "description": "Comprehensive bloatware list for Realme devices — ColorOS (early) + Realme UI 1/2/3/4",
+  "packages": [
+    {
+      "id": "com.realmelink",
+      "name": "Realme Link",
+      "description": "Realme IoT device pairing.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.heytap.browser",
+      "name": "HeyTap Browser",
+      "description": "Realme/OPPO browser. Substitute: Chrome.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.heytap.music",
+      "name": "HeyTap Music",
+      "description": "Realme music streaming.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.heytap.picturetotext",
+      "name": "Picture to Text (OCR)",
+      "description": "Screen text recognition.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.realme.store",
+      "name": "Realme Store",
+      "description": "Official Realme store app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.realme.community",
+      "name": "Realme Community",
+      "description": "Realme forum and community app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.heytap.cloud",
+      "name": "HeyTap Cloud",
+      "description": "Realme cloud backup.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.heytap.themestore",
+      "name": "HeyTap Theme Store",
+      "description": "Theme marketplace.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oplus.games",
+      "name": "OPPO/Realme Game Center",
+      "description": "Gaming hub.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.nearme.statistics.rom",
+      "name": "Realme ROM Statistics",
+      "description": "Usage data collection. Recommended to remove.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.heytap.openid",
+      "name": "HeyTap OpenID",
+      "description": "Realme/OPPO account authentication.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.nearme.romupdate",
+      "name": "Realme OTA Update",
+      "description": "Realme system update service.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.nearme.launcher",
+      "name": "Realme Launcher (legacy)",
+      "description": "Old Realme launcher from Realme UI 1.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.coloros.weather2",
+      "name": "ColorOS Weather (legacy)",
+      "description": "Old weather app from ColorOS-based Realme UI.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.note",
+      "name": "ColorOS Notes (legacy)",
+      "description": "Old notes app from ColorOS.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.android.browser",
+      "name": "OPPO/Realme Browser (legacy)",
+      "description": "Old pre-installed browser. Substitute: Chrome.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.oplus.statistics",
+      "name": "OPPO Statistics Service",
+      "description": "Usage data collection for OPPO/Realme.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.heytap.market",
+      "name": "HeyTap Market",
+      "description": "Alternate app store.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.realme.weather",
+      "name": "Realme Weather",
+      "description": "Realme weather app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.realme.assistant",
+      "name": "Realme AI Assistant",
+      "description": "Realme voice/AI assistant.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.coloros.os.permission",
+      "name": "ColorOS Permission Manager",
+      "description": "Core permission framework. Removal breaks app permissions.",
+      "risk": "never"
+    }
+  ]
+}

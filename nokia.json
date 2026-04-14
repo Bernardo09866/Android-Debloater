@@ -1,0 +1,108 @@
+{
+  "brand": "nokia",
+  "description": "Comprehensive bloatware list for Nokia devices (HMD Global) — Android One and Nokia-branded variants",
+  "packages": [
+    {
+      "id": "com.hmdglobal.app.fmradio",
+      "name": "Nokia FM Radio",
+      "description": "FM radio app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.hmdglobal.app.setup",
+      "name": "Nokia Setup Wizard",
+      "description": "Initial setup wizard. Safe after setup.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.hmdglobal.ems.service",
+      "name": "Nokia EMS Service",
+      "description": "Nokia remote device management.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.hmdglobal.app.omacp",
+      "name": "Nokia OMA CP",
+      "description": "Carrier provisioning configuration.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.evenwell.powersaving",
+      "name": "Power Saving (Nokia/HMD)",
+      "description": "Battery optimizer.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.swiftkey.swiftkeyapp",
+      "name": "SwiftKey Keyboard",
+      "description": "Microsoft keyboard pre-installed. Substitute: Gboard.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.microsoft.bing",
+      "name": "Bing Search",
+      "description": "Microsoft Bing. Substitute: Google Search.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.microsoft.teams",
+      "name": "Microsoft Teams",
+      "description": "Teams pre-installed on some Nokia.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.microsoft.office.officehubrow",
+      "name": "Microsoft Office Hub",
+      "description": "Office suite pre-installed.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.hmdglobal.app.aiface",
+      "name": "Nokia AI Face (Bothie)",
+      "description": "Dual camera AI feature.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.hmdglobal.app.diagnostics",
+      "name": "Nokia Diagnostics",
+      "description": "Device diagnostic tool.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.nokia.phone.support",
+      "name": "Nokia Support (legacy)",
+      "description": "Old Nokia support app from first HMD devices.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.hmdglobal.app.myphoneinfo",
+      "name": "My Phone Info (legacy)",
+      "description": "Device info app from early HMD Nokias.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.nokia.pushnotifications",
+      "name": "Nokia Push Notifications (legacy)",
+      "description": "Old push service from Nokia Android 2-4 attempt (Nokia X).",
+      "risk": "safe"
+    },
+    {
+      "id": "com.nokia.here.maps",
+      "name": "HERE Maps (legacy)",
+      "description": "Nokia HERE maps from Nokia X era (Android 4).",
+      "risk": "safe"
+    },
+    {
+      "id": "com.nokia.store",
+      "name": "Nokia Store (legacy)",
+      "description": "Old Nokia app store from Nokia X (Android 4).",
+      "risk": "safe"
+    },
+    {
+      "id": "com.hmdglobal.app.superzoom",
+      "name": "Nokia Super Zoom (legacy)",
+      "description": "Old camera zoom enhancement.",
+      "risk": "safe"
+    }
+  ]
+}

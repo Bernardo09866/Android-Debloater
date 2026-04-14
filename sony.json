@@ -1,0 +1,144 @@
+{
+  "brand": "sony",
+  "description": "Comprehensive bloatware list for Sony Xperia devices — Timescape (Android 2-4), Xperia UI (all versions)",
+  "packages": [
+    {
+      "id": "com.sonymobile.music",
+      "name": "Sony Music (Walkman)",
+      "description": "Sony Walkman music player. Substitute: Spotify.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sonymobile.video",
+      "name": "Sony Video",
+      "description": "Sony video player. Substitute: VLC.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sonymobile.album",
+      "name": "Sony Album (Gallery)",
+      "description": "Sony photo gallery. Substitute: Google Photos.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sonymobile.androidapp.socialife",
+      "name": "Socialife",
+      "description": "Social media aggregator.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sonymobile.lifelog",
+      "name": "Lifelog",
+      "description": "Activity tracker.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sonymobile.remotemenu",
+      "name": "Remote Menu",
+      "description": "Smart remote for TV.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sonymobile.sketch",
+      "name": "Sony Sketch",
+      "description": "Drawing app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sonymobile.androidapp.GA",
+      "name": "Game Enhancer",
+      "description": "Gaming optimization overlay.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sonymobile.conversations",
+      "name": "Sony Conversations",
+      "description": "Sony messaging app. Substitute: Google Messages.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sonymobile.xperiaservicescenter",
+      "name": "Xperia Services Center",
+      "description": "Sony telemetry and device management.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.sonymobile.playmemories",
+      "name": "PlayMemories (legacy)",
+      "description": "Sony photo sharing from Xperia 2013-2016 era.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sonymobile.timescape",
+      "name": "Timescape (legacy)",
+      "description": "Social feed aggregator from Xperia Android 2-4 era.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sonymobile.timescape.provider",
+      "name": "Timescape Provider (legacy)",
+      "description": "Data provider for old Timescape app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sonymobile.mediacollection",
+      "name": "Media Collection (legacy)",
+      "description": "Old Sony media hub from Xperia 2012-2014.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sonymobile.crashlog",
+      "name": "Crash Log Service",
+      "description": "Sends crash reports to Sony.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sonymobile.feedback",
+      "name": "Sony Feedback",
+      "description": "Sends usage feedback to Sony.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sonymobile.news",
+      "name": "Sony News Suite",
+      "description": "News aggregator app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sonymobile.enterprise",
+      "name": "Sony Enterprise Service",
+      "description": "MDM enterprise features.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.sonymobile.smartar",
+      "name": "Smart AR (legacy)",
+      "description": "Augmented reality app from Xperia 2012-2015.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sonymobile.themes",
+      "name": "Sony Themes Store",
+      "description": "Theme marketplace.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sonymobile.liveware",
+      "name": "Sony Liveware Manager (legacy)",
+      "description": "Old accessory management from 2012-2016 Xperia.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sonymobile.smallapps",
+      "name": "Small Apps (legacy)",
+      "description": "Floating mini-app feature from Xperia 2013-2017.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sonymobile.android.persistentservice",
+      "name": "Sony Persistent Service",
+      "description": "Core Sony background service. Removal may break Xperia features.",
+      "risk": "never"
+    }
+  ]
+}

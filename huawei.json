@@ -1,0 +1,156 @@
+{
+  "brand": "huawei",
+  "description": "Comprehensive bloatware list for Huawei/Honor devices — EMUI 3 through HarmonyOS",
+  "packages": [
+    {
+      "id": "com.huawei.appmarket",
+      "name": "AppGallery",
+      "description": "Huawei app store. Safe if using Google Play.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.music",
+      "name": "Huawei Music",
+      "description": "Music player. Substitute: Spotify.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.video",
+      "name": "Huawei Video",
+      "description": "Video player. Substitute: VLC.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.himovie.overseas",
+      "name": "Huawei Video Streaming",
+      "description": "Huawei video streaming service.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.health",
+      "name": "Huawei Health",
+      "description": "Health and fitness. Required for Band/Watch pairing.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.huawei.wallet",
+      "name": "Huawei Wallet",
+      "description": "Digital wallet.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.browser",
+      "name": "Huawei Browser",
+      "description": "Web browser. Substitute: Chrome, Firefox.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.tips",
+      "name": "Huawei Tips",
+      "description": "Tips and tutorial app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.id.service",
+      "name": "Huawei ID Service",
+      "description": "Huawei account authentication.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.huawei.intelligent.search",
+      "name": "HiSearch",
+      "description": "Intelligent search collecting usage data.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.android.pushagent",
+      "name": "Huawei Push Agent",
+      "description": "Push notification system.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.huawei.vassistant",
+      "name": "Celia / HiVoice (Voice Assistant)",
+      "description": "Huawei voice assistant. Substitute: Google Assistant.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.gameassistant",
+      "name": "Game Assistant",
+      "description": "Gaming overlay and optimizer.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.android.hwouc",
+      "name": "Huawei Update Center",
+      "description": "OTA updates. Removal disables updates.",
+      "risk": "advanced"
+    },
+    {
+      "id": "com.huawei.hitouch",
+      "name": "HiTouch",
+      "description": "AI content recognition on screen.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.hiview",
+      "name": "HiView (legacy)",
+      "description": "Telemetry service from EMUI 3-5.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.hiboard",
+      "name": "HiBoard (legacy)",
+      "description": "Smart news board from EMUI 5-8.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.contactscamcard",
+      "name": "Business Card Recognition",
+      "description": "AI business card scanner.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.parentalcontrol",
+      "name": "Parental Controls (Huawei)",
+      "description": "Child usage restrictions.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.mirrorshare",
+      "name": "Huawei Mirror Share (legacy)",
+      "description": "Screen mirroring from EMUI 4-6.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.phoneservice",
+      "name": "My Huawei (legacy)",
+      "description": "Old device support and warranty app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.fastapp",
+      "name": "Fast App (legacy)",
+      "description": "Lite-apps platform from EMUI 8-10.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.hiskytone",
+      "name": "Huawei Ringtone Store (legacy)",
+      "description": "Ringtone and wallpaper store from EMUI 3-5.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.huawei.android.launcher",
+      "name": "EMUI Launcher (legacy)",
+      "description": "Old EMUI launcher from EMUI 3-4.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.huawei.systemmanager",
+      "name": "Phone Manager (FRAMEWORK)",
+      "description": "Core Huawei system manager. Removal breaks system features.",
+      "risk": "never"
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "brand": "xiaomi",
+  "description": "Comprehensive bloatware list for Xiaomi/Redmi/POCO devices — MIUI 6 through HyperOS",
+  "packages": [
+    {
+      "id": "com.miui.analytics",
+      "name": "MIUI Analytics",
+      "description": "Collects usage data for Xiaomi. Recommended to remove.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.msa.global",
+      "name": "MSA (MIUI System Ads)",
+      "description": "Built-in ads system. Recommended to remove.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.daemon",
+      "name": "MIUI Daemon",
+      "description": "Background service for MIUI ads.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.xiaomi.mipicks",
+      "name": "Mi Picks",
+      "description": "Sponsored app recommendations.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.bugreport",
+      "name": "Bug Report (MIUI)",
+      "description": "Bug reporting tool sending data to Xiaomi.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.cleanmaster",
+      "name": "Mi Cleaner",
+      "description": "RAM cleaner. Generally unnecessary.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.android.fashiongallery",
+      "name": "Fashion Gallery",
+      "description": "Themed wallpaper app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.yellowpage",
+      "name": "Yellow Pages (MIUI)",
+      "description": "Caller ID via yellow pages database.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.player",
+      "name": "Mi Music",
+      "description": "Xiaomi music player. Substitute: Spotify.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.video",
+      "name": "Mi Video",
+      "description": "Xiaomi video player. Substitute: VLC.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.videoplayer",
+      "name": "Mi Video Player (alternate)",
+      "description": "Alternate MIUI video player package.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.gallery",
+      "name": "MIUI Gallery",
+      "description": "Xiaomi photo gallery. Substitute: Google Photos.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.xiaomi.midrop",
+      "name": "Mi Drop",
+      "description": "Wi-Fi file transfer app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.contentcatcher",
+      "name": "Content Catcher",
+      "description": "Cross-app content sharing.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.compass",
+      "name": "Compass (MIUI)",
+      "description": "Compass app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.weather",
+      "name": "Mi Weather",
+      "description": "Xiaomi weather app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.notes",
+      "name": "Mi Notes",
+      "description": "Xiaomi notes app. Substitute: Google Keep.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.antispam",
+      "name": "Anti-Spam (MIUI)",
+      "description": "Spam call filter that uploads call data.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.miui.securitycenter",
+      "name": "Security Center (MIUI)",
+      "description": "Xiaomi security app. May affect app permissions.",
+      "risk": "advanced"
+    },
+    {
+      "id": "com.miui.powerkeeper",
+      "name": "Power Keeper",
+      "description": "Battery management. May affect battery optimization.",
+      "risk": "advanced"
+    },
+    {
+      "id": "com.miui.screenrecorder",
+      "name": "Screen Recorder (MIUI)",
+      "description": "MIUI screen recorder.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.voiceassist",
+      "name": "Mi AI (Voice Assistant)",
+      "description": "Xiaomi voice assistant.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.virtualsim",
+      "name": "Virtual SIM",
+      "description": "Xiaomi eSIM management.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.miui.calculator",
+      "name": "Mi Calculator",
+      "description": "MIUI calculator.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.fm",
+      "name": "Mi FM Radio",
+      "description": "FM radio app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.backup",
+      "name": "Mi Backup",
+      "description": "MIUI backup service.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.miui.cloudservice",
+      "name": "Mi Cloud",
+      "description": "Xiaomi cloud backup and sync.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.miui.cloudbackup",
+      "name": "Mi Cloud Backup",
+      "description": "Cloud backup module.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.xiaomi.account",
+      "name": "Mi Account",
+      "description": "Xiaomi account service.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.miui.hybrid",
+      "name": "Mi App Store (Hybrid)",
+      "description": "Xiaomi app store hybrid module.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.global.packageinstaller",
+      "name": "Mi Package Installer",
+      "description": "MIUI custom package installer.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.miui.mishare.activity",
+      "name": "Mi Share",
+      "description": "Xiaomi AirDrop-like sharing.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.xiaomi.gamecenter",
+      "name": "Mi Game Center",
+      "description": "Xiaomi gaming hub.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.miservice",
+      "name": "Mi Service Framework (legacy)",
+      "description": "Old MIUI service framework from MIUI 6-8.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.miui.systemadsSolution",
+      "name": "MIUI System Ads Solution (legacy)",
+      "description": "Old ad delivery system from MIUI 8.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.lockscreen",
+      "name": "MIUI Lockscreen (legacy)",
+      "description": "Old lockscreen from MIUI 6-9. Safe to remove on newer versions.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.xiaomi.mitunes",
+      "name": "Mi Tunes (legacy)",
+      "description": "Old music store from early MIUI.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.rom.installer",
+      "name": "ROM Installer (legacy)",
+      "description": "OTA ROM installer from early MIUI.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.miui.notification.center",
+      "name": "Notification Center (legacy)",
+      "description": "Old notification manager from MIUI 7-9.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.miui.translation",
+      "name": "MIUI Translation Service",
+      "description": "Built-in translation using Xiaomi servers.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.miui.privacycomputing",
+      "name": "Privacy Computing (HyperOS)",
+      "description": "Privacy data processing module in HyperOS.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.miui.frameworks.core",
+      "name": "MIUI Core Framework",
+      "description": "Core MIUI framework. Removal breaks system UI.",
+      "risk": "never"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "brand": "motorola",
+  "description": "Comprehensive bloatware list for Motorola devices — Motoblur (Android 2-4), My UX, Stock Android variants",
+  "packages": [
+    {
+      "id": "com.motorola.brapps",
+      "name": "Moto App Launcher",
+      "description": "Motorola app launcher.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.motorola.motodisplay",
+      "name": "Moto Display (Peek Display)",
+      "description": "Lock screen notifications feature.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.motorola.motoactions",
+      "name": "Moto Actions",
+      "description": "Gestures: chop for flashlight, twist for camera, etc.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.motorola.motovoice",
+      "name": "Moto Voice",
+      "description": "Motorola voice assistant. Substitute: Google Assistant.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.motorola.genie",
+      "name": "Moto Genie",
+      "description": "App and content suggestions.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.motorola.ccc",
+      "name": "Moto Care",
+      "description": "Motorola technical support app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.motorola.helpme",
+      "name": "Moto Help",
+      "description": "Help and tutorial app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.motorola.MotoCit",
+      "name": "Moto CIT",
+      "description": "Factory diagnostic tool.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.motorola.targetnotif",
+      "name": "Moto Target Notification",
+      "description": "Sponsored push notifications.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.motorola.myaccount",
+      "name": "My Account (Motorola)",
+      "description": "Motorola account app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.motorola.appdirectedsmspromo",
+      "name": "Moto SMS Promo",
+      "description": "Promotional SMS sender.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.motorola.ciq_agent",
+      "name": "Carrier IQ Agent",
+      "description": "Carrier usage data collection. Recommended to remove.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.motorola.android.feedback",
+      "name": "Motorola Feedback",
+      "description": "Usage reports to Motorola.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.motorola.launcher3",
+      "name": "Moto Launcher",
+      "description": "Motorola default launcher. Substitute: Nova Launcher.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.motorola.nexuscleaner",
+      "name": "Moto Cleaner",
+      "description": "RAM cleaner app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.motorola.android.buadriver",
+      "name": "Backup Agent Driver",
+      "description": "Motorola backup service driver.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.amazon.appmanager",
+      "name": "Amazon App Manager",
+      "description": "Amazon app manager pre-installed.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.amazon.mShop.android.shopping",
+      "name": "Amazon Shopping",
+      "description": "Amazon shopping app pre-installed.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.facebook.appmanager",
+      "name": "Facebook App Manager",
+      "description": "Facebook background service. Recommended to remove.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.facebook.services",
+      "name": "Facebook Services",
+      "description": "Facebook background services.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.facebook.system",
+      "name": "Facebook System",
+      "description": "Facebook system component.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.facebook.katana",
+      "name": "Facebook",
+      "description": "Facebook app pre-installed.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.mobileposse.client",
+      "name": "First Screen / Mobile Posse",
+      "description": "Lock screen ads. Remove with priority.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.motorola.motostyle",
+      "name": "Moto Style (legacy)",
+      "description": "Theme and wallpaper app from older Moto devices.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.motorola.blur.setupwizard",
+      "name": "Motoblur Setup Wizard (legacy)",
+      "description": "Old setup wizard from Motoblur era (Android 2-4).",
+      "risk": "safe"
+    },
+    {
+      "id": "com.motorola.motowidget",
+      "name": "Moto Widget (legacy)",
+      "description": "Old home screen widget from Motoblur.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.motorola.livemotion",
+      "name": "Live Motion (legacy)",
+      "description": "Animated wallpaper from older Moto UI.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.motorola.camera2",
+      "name": "Moto Camera (legacy)",
+      "description": "Old Moto camera app.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.motorola.blur.provider.contacts",
+      "name": "Motoblur Contacts Provider (legacy)",
+      "description": "Social contacts sync from Motoblur era.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.motorola.sprinttools",
+      "name": "Sprint Tools (carrier)",
+      "description": "Sprint/T-Mobile carrier tools pre-installed on some Moto models.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.motorola.vzw.iqrd",
+      "name": "Verizon IQ Agent (carrier)",
+      "description": "Verizon usage tracking on carrier Moto models.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.motorola.frameworks.core",
+      "name": "Motorola Core Framework",
+      "description": "Core Motorola framework. Removal may break Moto features.",
+      "risk": "never"
+    },
+    {
+      "id": "com.motorola.audiomonitor",
+      "name": "Motorola Audio Monitor",
+      "description": "Audio service. Removal may affect calls.",
+      "risk": "never"
+    }
+  ]
+}

@@ -1,0 +1,378 @@
+{
+  "brand": "samsung",
+  "description": "Comprehensive bloatware list for Samsung devices — TouchWiz (Android 4-6), Grace UX (Android 7-8), One UI (Android 9+)",
+  "packages": [
+    {
+      "id": "com.samsung.android.bixby.agent",
+      "name": "Bixby",
+      "description": "Samsung voice assistant. Substitute: Google Assistant.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.bixby.wakeup",
+      "name": "Bixby Wake-up",
+      "description": "Voice activation for Bixby.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.app.routines",
+      "name": "Bixby Routines",
+      "description": "Bixby automation routines.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.bixby.home",
+      "name": "Bixby Home",
+      "description": "Bixby home screen panel (swipe right).",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.bixbyvision.framework",
+      "name": "Bixby Vision",
+      "description": "AR camera feature by Bixby.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.samsungpass",
+      "name": "Samsung Pass",
+      "description": "Samsung password manager. Substitute: Bitwarden.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.samsungpay",
+      "name": "Samsung Pay",
+      "description": "Samsung digital wallet.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.livestreaming",
+      "name": "Samsung Live Streaming",
+      "description": "Live streaming app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.arzone",
+      "name": "AR Zone",
+      "description": "Augmented reality hub (AR Emoji, Deco Pic).",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.game.gamehome",
+      "name": "Game Launcher",
+      "description": "Samsung gaming hub.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.game.gametools",
+      "name": "Game Booster",
+      "description": "Gaming performance optimizer.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.samsung.android.applock",
+      "name": "App Lock (Samsung)",
+      "description": "Biometric app lock layer.",
+      "risk": "advanced"
+    },
+    {
+      "id": "com.samsung.android.app.galaxyfinder",
+      "name": "Galaxy Friends / Finder",
+      "description": "Samsung device tracking.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.app.social",
+      "name": "Samsung Social",
+      "description": "Social media integration hub.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sec.android.app.shealth",
+      "name": "Samsung Health",
+      "description": "Fitness and health tracker. Substitute: Google Fit.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.stickercenter",
+      "name": "Sticker Center",
+      "description": "Keyboard sticker marketplace.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.app.tips",
+      "name": "Samsung Tips",
+      "description": "Device usage tips app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.app.watchmanager",
+      "name": "Galaxy Watch Manager",
+      "description": "Galaxy Watch management. Remove if you don't own one.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.app.galaxybudsmanager",
+      "name": "Galaxy Buds Manager",
+      "description": "Galaxy Buds management. Remove if you don't own them.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.fmm",
+      "name": "Find My Mobile",
+      "description": "Samsung device tracking. Substitute: Google Find My Device.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.samsung.android.smartswitchassistant",
+      "name": "Smart Switch Assistant",
+      "description": "Data migration tool.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.app.cocktailbarservice",
+      "name": "Edge Panel",
+      "description": "Samsung side panel shortcut bar.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.service.livedrawing",
+      "name": "Live Drawing",
+      "description": "Animated wallpaper service.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sec.android.app.chromacustomizationservice",
+      "name": "Chroma Customization",
+      "description": "UI color customization service.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.samsung.android.kidsinstaller",
+      "name": "Kids Mode Installer",
+      "description": "Samsung Kids parental control mode.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.app.dressroom",
+      "name": "Theme Store",
+      "description": "Samsung theme marketplace.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.themestore",
+      "name": "Theme Store (alternate)",
+      "description": "Samsung theme marketplace alternate package.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.rubin.app",
+      "name": "Daily Board (Rubin)",
+      "description": "Daily info display when charging.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.app.camera2",
+      "name": "Pro Video Mode",
+      "description": "Pro video camera feature.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.scloud",
+      "name": "Samsung Cloud",
+      "description": "Samsung cloud backup service.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.samsung.android.messaging",
+      "name": "Samsung Messages",
+      "description": "Samsung SMS app. Substitute: Google Messages.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.sec.android.app.sbrowser",
+      "name": "Samsung Internet Browser",
+      "description": "Samsung browser. Substitute: Chrome, Firefox.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.email.provider",
+      "name": "Samsung Email",
+      "description": "Samsung email client. Substitute: Gmail.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.calendar",
+      "name": "Samsung Calendar",
+      "description": "Samsung calendar. Substitute: Google Calendar.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.contacts",
+      "name": "Samsung Contacts",
+      "description": "Samsung contacts app. Substitute: Google Contacts.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.samsung.android.dialer",
+      "name": "Samsung Phone (Dialer)",
+      "description": "Samsung dialer app.",
+      "risk": "caution"
+    },
+    {
+      "id": "com.samsung.android.gallery3d",
+      "name": "Samsung Gallery",
+      "description": "Samsung photo gallery. Substitute: Google Photos.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.video",
+      "name": "Samsung Video Player",
+      "description": "Samsung video player. Substitute: VLC.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.music",
+      "name": "Samsung Music",
+      "description": "Samsung music player. Substitute: Spotify.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.app.notes",
+      "name": "Samsung Notes",
+      "description": "Samsung note app. Substitute: Google Keep.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.app.memo",
+      "name": "Samsung Memo (legacy)",
+      "description": "Old note-taking app from TouchWiz era.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.voicerecorder",
+      "name": "Voice Recorder",
+      "description": "Samsung voice recorder.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.weather",
+      "name": "Samsung Weather",
+      "description": "Samsung weather widget.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.app.calculator",
+      "name": "Samsung Calculator",
+      "description": "Samsung calculator.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sec.android.app.clockpackage",
+      "name": "Samsung Clock",
+      "description": "Samsung clock app.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.app.taskedge",
+      "name": "Task Edge",
+      "description": "Edge panel for app shortcuts (legacy).",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.app.ledcover",
+      "name": "LED Cover",
+      "description": "LED smart cover support (legacy).",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.app.watchmanagerstub",
+      "name": "Watch Manager Stub (legacy)",
+      "description": "Stub for old Gear smartwatch support.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.sdk.handwriting",
+      "name": "S Note / Handwriting SDK",
+      "description": "S Pen handwriting SDK from older Galaxy Note devices.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sec.android.app.snote",
+      "name": "S Note (legacy)",
+      "description": "Old S Pen note app from Galaxy Note 2/3/4 era.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.app.mirrorlink",
+      "name": "MirrorLink",
+      "description": "Car display mirroring (legacy, rarely used).",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.allshare",
+      "name": "AllShare (legacy)",
+      "description": "DLNA media sharing from TouchWiz era.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.allshare.service.mediashare",
+      "name": "AllShare Media Share (legacy)",
+      "description": "DLNA media sharing service.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.app.spage",
+      "name": "Flipboard Briefing / Samsung Daily",
+      "description": "News feed on the leftmost home screen.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.easysetup",
+      "name": "Easy Setup",
+      "description": "Device setup wizard. Safe to remove after initial setup.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.sec.android.nearby",
+      "name": "Nearby Share (Samsung)",
+      "description": "Samsung nearby file sharing.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.mdx",
+      "name": "Link to Windows",
+      "description": "Samsung-Microsoft phone link feature.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.microsoft.skydrive",
+      "name": "OneDrive (pre-installed)",
+      "description": "Microsoft OneDrive pre-installed on Samsung.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.linkedin.android",
+      "name": "LinkedIn (pre-installed)",
+      "description": "LinkedIn pre-installed on some Samsung models.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.netflix.partner.activation",
+      "name": "Netflix Activation",
+      "description": "Netflix silent installer/activator.",
+      "risk": "safe"
+    },
+    {
+      "id": "com.samsung.android.mobileservice",
+      "name": "Samsung Mobile Services (FRAMEWORK)",
+      "description": "Core Samsung services framework. Removal breaks Samsung Pay, Galaxy Store and Knox features.",
+      "risk": "never"
+    },
+    {
+      "id": "com.samsung.android.incallui",
+      "name": "Samsung In-Call UI",
+      "description": "Call interface. Removal may prevent calls from working.",
+      "risk": "never"
+    }
+  ]
+}
